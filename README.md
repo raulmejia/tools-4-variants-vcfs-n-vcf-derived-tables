@@ -1,6 +1,6 @@
-This repo is a metarepo
+#This repo is a metarepo
 
-It contains the following repositories
+It contains the following repositories:
 
 ### tools-4-vcf-n-vcf-derived-tables  
 For example:  
